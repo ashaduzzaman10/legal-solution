@@ -1,0 +1,21 @@
+#center-box {
+  width: 50%;
+  padding-left: 350px;
+}
+#center-item {
+  text-align: center;
+  justify-content: center;
+}
+.section-img {
+  width: 60%;
+  height: auto;
+  margin: 15px;
+  padding-left: 150px;
+  object-fit: cover;
+  justify-content: center;
+  align-items: center;
+}
+.faq-img{
+ width: 50%;
+  height: auto;
+}
